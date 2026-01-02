@@ -102,8 +102,18 @@ It only mediates access to **ANNA (AGI)**.
 ---
 
 ### Level 3 — Gate Users (Qubic Scholars)
+## Academy & Master Gate
 
+The Master Gate is the final qualification layer that validates deep
+understanding of Qubic before allowing AGI training access.
+
+<p align="center">
+  <img src="/006F34ED-F659-4DEA-8F32-5A4FC4125A97.png"
+       alt="ANNA Master Gate Interface"
+       width="900">
+</p>
 Gate Users are highly qualified experts.
+
 
 **How to pass Gate**
 - Complete advanced Qubic learning paths  
