@@ -1,5 +1,7 @@
 # ANNA — Qubic AI (App & AGI)
-
+<p align="center">
+  <img src="/AB35CBC6-8B85-467D-8668-6BCC1D8DC65A.png" alt="ANNA App Interfaces" width="900">
+</p>
 ANNA is a Qubic-dedicated AI system designed to **explain Qubic accurately, safely, and at scale**.
 
 ANNA is split into two clearly separated layers:
@@ -15,6 +17,9 @@ ANNA explains. Humans decide.
 ---
 
 ## What is ANNA (AGI)?
+<p align="center">
+  <img src="/.png" alt="ANNA App Interfaces" width="900">
+</p>
 
 **ANNA (AGI)** is the intelligence layer responsible for:
 
