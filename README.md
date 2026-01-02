@@ -18,7 +18,7 @@ ANNA explains. Humans decide.
 
 ## What is ANNA (AGI)?
 <p align="center">
-  <img src="/.png" alt="ANNA App Interfaces" width="900">
+  <img src="/2470010F-A9F3-47AB-A14D-9EF5F2DE8A01.png" alt="ANNA App Interfaces" width="900">
 </p>
 
 **ANNA (AGI)** is the intelligence layer responsible for:
